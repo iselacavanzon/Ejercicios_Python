@@ -2,9 +2,9 @@
 # Introducción a Python
 Objetivo:
 Practicar el uso del lenguaje de programación Python, recreando ejercicios previos con este lenguaje para notar la diferencia en la implementación.
-# Ejercicio 1
+# Ejercicio 1 (numero_mayor.py)
 Elabore un programa en python que posibilite la lectura de dos valores diferentes, identifique cuál de los dos valores es el mayor y lo muestre.
-# Ejercicio 2
+# Ejercicio 2 (suma_nenteros.py)
 Desarrolle un programa en python que calcule la suma de los números enteros del 1 al 10, es decir, la suma de 1 + 2 + 3 + ... + 10
 
 # Ejercicio Semanal 17
